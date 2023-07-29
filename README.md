@@ -1,2 +1,3 @@
 # Quiz_App
-Here is tjhe creation of the quiz app using HTML CSS and JavaScript
+Here is the creation of the quiz app using HTML , CSS and JavaScript.
+It contains 10 MCQ questions on which
